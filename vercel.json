@@ -5,6 +5,10 @@
             "dest":"/"
         },
         {
+            "src":"/coin",
+            "dest":"/"
+        },
+        {
             "src":"/coin/:id",
             "dest":"/"
         }
