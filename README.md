@@ -1,5 +1,8 @@
 # Crypto-trading Application
 
+#Live Link:-https://xcrypto-five-ruby.vercel.app/
+
+
 ## Overview
 This project is a real-time crypto-trading application built using React JS, Chakra UI, HTML, and JavaScript. It provides users with up-to-date details on cryptocurrency prices and allows them to engage in trading activities.
 
